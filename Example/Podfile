@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'WDBannerView_Example' do
+  pod 'WDBannerView', :path => '../'
+
+  target 'WDBannerView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
