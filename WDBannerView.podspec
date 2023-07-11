@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WDBannerView'
-  s.version          = '0.0.1'
-  s.summary          = 'A short description of WDBannerView.'
+  s.version          = '0.0.3'
+  s.summary          = '轮播控件'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
